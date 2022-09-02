@@ -1,1 +1,1 @@
- Linux SHELL comant practice, ALX Software Engineering program 
+ Linux SHELL comand practice, ALX Software Engineering program 
